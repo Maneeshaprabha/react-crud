@@ -1,0 +1,24 @@
+{
+  "employee": [
+    {
+      "id": 2,
+      "name": "herathh",
+      "email": "maneeprabha28@gamil.com",
+      "phone": "0702137239"
+    },
+    {
+      "id": 3,
+      "name": "awqq",
+      "email": "qq",
+      "phone": "qq",
+      "active": true
+    },
+    {
+      "id": 4,
+      "name": "qw",
+      "email": "qqw",
+      "phone": "",
+      "active": true
+    }
+  ]
+}
