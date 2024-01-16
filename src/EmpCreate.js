@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import { useNavigate } from "react-router-dom";
 
 const EmpCreate = () => {
-    const [id, idChange] = useState("");
+    const [id, idChange] = useState ("");
     const [name, nameChange] = useState("");
     const [email, emailChange] = useState("");
     const [phone, phoneChange] = useState("");
